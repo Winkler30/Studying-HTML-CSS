@@ -15,4 +15,11 @@ span{
 ul{
     list-style: none;
 }
- 
+footer{
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
